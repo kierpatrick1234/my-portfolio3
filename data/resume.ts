@@ -1,8 +1,8 @@
 // Edit everything about your résumé here. Components read from this file only.
 
 export const profile = {
-  firstName: "Kier Patrick",
-  lastName: "Empang",
+  firstName: "Chonadel",
+  lastName: "Terrado",
   role: "UI/UX web developer",
   location: "the Philippines",
   availability: "Open to internships and freelance work",
