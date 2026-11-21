@@ -45,7 +45,7 @@ export const projects: Project[] = [
     stack: ["Figma", "Next.js", "TypeScript", "CSS Modules"],
   },
   {
-    title: "Barangay health appointment app",
+    title: "City health appointment app",
     year: "2025",
     role: "Product design, front-end",
     oneLiner: "A booking tool for a local health center, designed for first-time smartphone users.",
