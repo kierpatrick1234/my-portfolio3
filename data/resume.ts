@@ -30,7 +30,7 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: "Campus enrollment redesign",
+    title: "IT110",
     year: "2026",
     role: "UX research, UI design, front-end",
     oneLiner: "Turned a 14-screen enrollment form into a 4-step flow students can finish on a phone.",
